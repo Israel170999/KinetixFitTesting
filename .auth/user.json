@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://kinetixsports.netlify.app",
+      "localStorage": [
+        {
+          "name": "users",
+          "value": "[{\"nombre\":\"Israel\",\"apellido\":\"Espinosa\",\"telefono\":\"5521236589\",\"correo\":\"israel@gmail.com\",\"password\":\"Hola123!\",\"role\":\"cliente\"},{\"nombre\":\"admin\",\"password\":\"Admin123!\",\"correo\":\"admin@gmail.com\",\"role\":\"admin\"}]"
+        }
+      ]
+    }
+  ]
+}
