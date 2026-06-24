@@ -1,0 +1,1 @@
+Plase open te code on Visual Code Studio, execute the command npx playwright test and next create the allure report with the command npx allure generate allure-results -o allure-report --clean; npx allure open allure-report
